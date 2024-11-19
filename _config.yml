@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Bartosz Jablonka
+name: Bartosz Jabłonka
 title: Automation Engineer
-email: bjablonka@wp.pl
-website: bjablonka.github.io
+email: brett.h@email.co.uk
+website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -25,7 +25,7 @@ darkmode: false
 # linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-# youtube_username: globalmtb
+youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -59,18 +59,18 @@ content:
       - layout: top-middle
         title: Super awesome project
         link: github.com/sproogen
-        link_text: Project Website
+        # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Under <mark>construction</mark>.
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -79,23 +79,23 @@ content:
         title: The Boring Company
         link: boringcompany.com
         # link_text: boringcompany.com
-        # sub_title: Senior Network System Administrator
-        # caption: November 2017 - Present
-        # quote: >
-          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        # description: | # this will include new lines to allow paragraphs
+        sub_title: Senior Network System Administrator
+        caption: November 2017 - Present
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        # title: Harvard University
-        # caption: 2010 - 2013
-        # sub_title: BSc Computer Science
-        # quote: >
+        title: Harvard University
+        caption: 2010 - 2013
+        sub_title: BSc Computer Science
+        quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        # description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
@@ -107,7 +107,6 @@ content:
       - Rock climbing
       - Gaming
       - Knitting
-      - Looking for voltage drop and cable selector tool? Download my Win32 app
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
