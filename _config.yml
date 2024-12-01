@@ -70,7 +70,7 @@ content:
         quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Looking for tool for voltage drop and cable selector? Please try my app. You an download it [here](https://github.com/bjablonka/bjablonka.github.io/blob/main/KabelSelektor.zip)
+          Looking for tool for voltage drop and cable selector? Please try my app. You an download it [here](KabelSelektor.zip)
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
