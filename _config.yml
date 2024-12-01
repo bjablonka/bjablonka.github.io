@@ -85,8 +85,8 @@ content:
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
            At Exyte, I work as an automation engineer. During these two I worked on:
-           * Ohly GmbH Hamburg – basic, detail design and as-built documentation engineer for BMS, IT/OT network, security systems for the newly constructed spray dryer building
-           * Center for Development and Production of Oncological Drugs Polfa SA in Tarchomin – as-built documentation engineer for BMS/EMS, IT, security and safety systems
+           * <mark>Ohly GmbH</mark> Hamburg – basic, detail design and as-built documentation engineer for BMS, IT/OT network, security systems for the newly constructed spray dryer building
+           * Center for Development and Production of Oncological Drugs <mark>Polfa SA</mark> in Tarchomin – as-built documentation engineer for BMS/EMS, IT, security and safety systems
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -105,7 +105,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in automation engineering I also like to take a camera and explore unfamiliar places. Some of my other interests and hobbies are:
+      Alongside my interests in automation engineering, I also like to take a camera and explore unfamiliar places. Some of my other interests and hobbies are:
       - IoT
       - retrocomputing - especially Commodore C64 and Amiga computers
       - Rapsberry Pi, ESP and other microcontrollers
