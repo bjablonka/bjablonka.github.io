@@ -90,20 +90,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Technical University of Gdańsk
+        title: Gdańsk University of Technology
         caption: ... - ...
-        sub_title: ...
+        sub_title: Faculty of Electrical and Control Engineering
         quote: >
-        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Gdańsk University of Technology was founded in 1899, so this year it celebrates its 120th birthday. Gdańsk Tech is among 11 Polish universities classified in the prestigious Academic Ranking of World Universities (ARWU), also known as the Shanghai Ranking.
         description: | # this will include new lines to allow paragraphs
-        #  y career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          In 2022, Gdańsk Tech was classified in the 801-900 range.
 
         #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      Alongside my interests in automation engineering I also like to take a camera and explore unfamiliar places. Some of my other interests and hobbies are:
       - IoT
       - retrocomputing - especially Commodore C64 and Amiga computers
       - Rapsberry Pi, ESP and other microcontrollers
@@ -113,7 +113,7 @@ content:
      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
