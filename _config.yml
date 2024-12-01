@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Cable selector tool
         # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -70,7 +70,7 @@ content:
         quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Under construction...
+          Looking for tool for voltage drop and cable selector? Please try my app. You an download it [here](https://bjablonka.github.io)
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -80,14 +80,28 @@ content:
         link: exyte.net
         # link_text: boringcompany.com
         sub_title: Automation/I&C Engineer
-        caption: May 2022 - Present
+        # caption: May 2022 - Present
         quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
            At Exyte, I work as an automation engineer. During these two I worked on:
            * <mark>Ohly GmbH</mark> Hamburg – basic, detail design and as-built documentation engineer for BMS, IT/OT network, security systems for the newly constructed spray dryer building
            * Center for Development and Production of Oncological Drugs <mark>Polfa SA</mark> in Tarchomin – as-built documentation engineer for BMS/EMS, IT, security and safety systems
-
+      
+      - layout: left
+        title: B&W Usługi Ogólnobudowlane
+        link: biw.gda.pl
+        # link_text: boringcompany.com
+        sub_title: Electrical Engineer
+        # caption: May 2022 - Present
+        quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+           * PLC programming (Siemens S7-1200, Horner, Logo, HMI Astraada)
+           * configuration and start-up of network devices, surveillance and security systems, CCTV, FAS
+           * cost estimation of teletechnical, low-voltage installations
+           * servicing and maintenance of control switchboards of pump stations
+      
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -96,9 +110,9 @@ content:
         caption: ... - ...
         sub_title: Faculty of Electrical and Control Engineering
         quote: >
-          Gdańsk University of Technology was founded in 1899, so this year it celebrates its 120th birthday. Gdańsk Tech is among 11 Polish universities classified in the prestigious Academic Ranking of World Universities (ARWU), also known as the Shanghai Ranking.
+          Gdańsk University of Technology was founded in 1899, so this year it celebrates its 120th birthday. Gdańsk Tech is among 11 Polish universities classified in the prestigious Academic Ranking of World Universities (ARWU), also known as the Shanghai Ranking.  In 2022, Gdańsk Tech was classified in the 801-900 range.
         description: | # this will include new lines to allow paragraphs
-          In 2022, Gdańsk Tech was classified in the 801-900 range.
+          Studying at Gdansk Tech was an excellent experience. I graduated as Bachelor of Science in Electrical Engineering.
 
         #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
