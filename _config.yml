@@ -70,7 +70,7 @@ content:
         quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Looking for tool for voltage drop and cable selector? Please try my app. You an download it [here](https://bjablonka.github.io)
+          Looking for tool for voltage drop and cable selector? Please try my app. You an download it [here](https://github.com/bjablonka/bjablonka.github.io/blob/main/KabelSelektor.zip)
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -97,6 +97,7 @@ content:
         quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
+           My tasks were a.o.
            * PLC programming (Siemens S7-1200, Horner, Logo, HMI Astraada)
            * configuration and start-up of network devices, surveillance and security systems, CCTV, FAS
            * cost estimation of teletechnical, low-voltage installations
@@ -107,10 +108,10 @@ content:
     content:
       - layout: left
         title: Gdańsk University of Technology
-        caption: ... - ...
+        # caption: ... - ...
         sub_title: Faculty of Electrical and Control Engineering
         quote: >
-          Gdańsk University of Technology was founded in 1899, so this year it celebrates its 120th birthday. Gdańsk Tech is among 11 Polish universities classified in the prestigious Academic Ranking of World Universities (ARWU), also known as the Shanghai Ranking.  In 2022, Gdańsk Tech was classified in the 801-900 range.
+          Gdańsk University of Technology was founded in 1899, so this year it celebrates its 120th birthday.
         description: | # this will include new lines to allow paragraphs
           Studying at Gdansk Tech was an excellent experience. I graduated as Bachelor of Science in Electrical Engineering.
 
@@ -122,6 +123,7 @@ content:
       Alongside my interests in automation engineering, I also like to take a camera and explore unfamiliar places. Some of my other interests and hobbies are:
       - IoT
       - retrocomputing - especially Commodore C64 and Amiga computers
+      - ancient programming languages, like: assembler, AMOS and others
       - Rapsberry Pi, ESP and other microcontrollers
      # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
