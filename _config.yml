@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Bartosz Jabłonka and I'm an automation engineer. I'm currently employed at <mark>Exyte</mark> Poland in Gdańsk. I'm interested and would like to develop in the fields of new technologies, IoT, PLC programming.
+  Hi, my name's Bartosz Jabłonka and I'm an automation engineer. I'm currently employed at <mark>ZETA</mark> Poland in Gdańsk. I'm interested and would like to develop in the fields of new technologies, IoT, PLC programming.
 
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -122,7 +122,7 @@ content:
         # caption: ... - ...
         sub_title: Faculty of Electrical and Control Engineering
         quote: >
-          Gdańsk University of Technology was founded in 1899, so this year it celebrates its 120th birthday.
+          Gdańsk University of Technology was founded in 1899, so last year it celebrated its 120th birthday.
         description: | # this will include new lines to allow paragraphs
           Studying at Gdansk Tech was an excellent experience. I graduated as Bachelor of Science in Electrical Engineering.
 
