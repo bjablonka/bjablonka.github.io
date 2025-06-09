@@ -76,6 +76,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: ZETA PL Sp. z o.o.
+        link: zeta.com
+        # link_text: boringcompany.com
+        sub_title: Automation/BMS/EMS Engineer
+        # caption: May 2022 - Present
+        quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+           At ZETA PL I'm responsible for development of concept, basic, detail and as-built designs for facility and process automation systems
+                    
+      - layout: left
         title: Exyte Poland
         link: exyte.net
         # link_text: boringcompany.com
